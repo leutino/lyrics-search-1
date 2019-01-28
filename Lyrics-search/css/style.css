@@ -1,10 +1,10 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: rgb(184, 88, 88)
+    background-image: url('../images/notes.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .container{
-    text-align: center;
-    
-    
+    text-align: center;   
 }
