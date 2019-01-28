@@ -24,4 +24,5 @@ fetch(url)
 }
 forma.addEventListener('submit', function(e){  
     e.preventDefault();
+    ucitajPodatke();
 })
